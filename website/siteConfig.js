@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Nikiya Simpson', // Title for your website.
-    tagline: 'Using Technology for Good, Lifetime Learning, ',
+    tagline: 'Data and Web Developer, Using Technology for Good, Lifetime Learner',
     profilePhoto: 'img/profile.png',
     url: 'https://nikiyasimpson.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
